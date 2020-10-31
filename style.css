@@ -1,0 +1,30 @@
+.link{
+    background-color: rgb(120, 75, 243);
+    padding: 8px 20px;
+    text-decoration:none;
+    font-weight:bold;
+    border-radius:5px;
+    cursor:pointer;
+    color: white;
+}
+
+#signup{
+margin-left: 600px;
+
+}
+#login{
+margin-left: 10px;
+}
+
+#info {
+    background-color: rgb(140, 193, 243);
+    height:200px;
+    width:300px;
+}
+
+.container{
+    width:70%;
+    margin:0 auto;
+    overflow: auto;
+    border: 2px solid;
+}
